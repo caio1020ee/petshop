@@ -40,7 +40,7 @@ class _ProductsOverviewPageState extends State<ProductsOverviewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('My epic products'),
+        title: const Text('Minha Loja'),
         actions: [
           PopupMenuButton(
             icon: const Icon(Icons.more_vert),
